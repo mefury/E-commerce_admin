@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "511212509237",
+    "firebase_url": "https://bdcalling-65984-default-rtdb.firebaseio.com",
+    "project_id": "bdcalling-65984",
+    "storage_bucket": "bdcalling-65984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511212509237:android:43e307de781acdd281b97c",
+        "android_client_info": {
+          "package_name": "com.bdcalling.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Nen7K8wSca9KBq8oyVYyO_Ya9XJ6dUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511212509237:android:700caf6d4703f29b81b97c",
+        "android_client_info": {
+          "package_name": "com.taskmanager.hrj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Nen7K8wSca9KBq8oyVYyO_Ya9XJ6dUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
